@@ -1,0 +1,9 @@
+package com.ty.spring;
+
+public class Student {
+	
+	public void bunk() {
+		System.out.println("if you bunk you will fail");
+	}
+
+}

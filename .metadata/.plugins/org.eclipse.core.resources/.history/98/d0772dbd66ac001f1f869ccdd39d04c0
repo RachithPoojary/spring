@@ -1,0 +1,10 @@
+package com.ty.spring;
+
+import java.util.ResourceBundle;
+
+public class Test {
+
+	public static void main(String[] args) {
+		Resource r = new classPathResource("congig.xml");
+	}
+}
