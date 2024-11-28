@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\rachi\eclipse-workspace\spring\MultipleConfigurationFileIn1Project\src\main\java\com\spring\DriverClass.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -49,6 +50,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Injecting-List-Of-String_Using_Setter-Injection"/>
+			<item value="Injecting-An-Object_Using-Setter-Injection"/>
+			<item value="Setter-Injection"/>
 			<item value="MultipleConfigurationFileIn1Project"/>
 			<item value="MultipleBean"/>
 			<item value="FirstSpringProject"/>

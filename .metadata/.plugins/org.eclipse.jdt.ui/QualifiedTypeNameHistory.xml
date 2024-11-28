@@ -8,5 +8,7 @@
     <fullyQualifiedTypeName name="java.lang.invoke.ClassSpecializer.Factory"/>
     <fullyQualifiedTypeName name="com.ty.spring.Student"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
 </qualifiedTypeNameHistroy>
