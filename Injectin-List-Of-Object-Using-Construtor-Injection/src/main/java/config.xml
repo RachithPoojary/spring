@@ -1,0 +1,36 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+            http://www.springframework.org/schema/beans/spring-beans.xsd
+            http://www.springframework.org/schema/context
+            http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+
+	<bean id="mySub1" class="com.spring.Subject">
+	<constructor-arg  value="JAVA" ></constructor-arg>
+	<constructor-arg  value="90"></constructor-arg>
+	</bean>
+	
+		<bean id="mySub2" class="com.spring.Subject">
+	<constructor-arg  value="SQL" ></constructor-arg>
+	<constructor-arg  value="45"></constructor-arg>
+	</bean>
+	
+		<bean id="mySub3" class="com.spring.Subject">
+	<constructor-arg value="J2EE" ></constructor-arg>
+	<constructor-arg  value="30"></constructor-arg>
+	</bean>
+
+	<bean id="myStudent" class="com.spring.Student">
+	<constructor-arg value="Rachith"></constructor-arg>
+	<constructor-arg >
+	<list>
+		<ref bean="mySub1"/>
+		<ref bean="mySub2"/>
+		<ref bean="mySub3"/>
+	</list>
+	
+	</constructor-arg>
+	</bean>
+</beans>

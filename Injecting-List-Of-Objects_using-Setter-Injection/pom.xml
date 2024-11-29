@@ -3,4 +3,13 @@
   <groupId>com.spring</groupId>
   <artifactId>Injecting-List-Of-Objects_using-Setter-Injection</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+    <dependencies>
+	  <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>5.3.18</version>
+</dependency>
+
+  </dependencies>
 </project>
