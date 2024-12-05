@@ -1,0 +1,19 @@
+package com.spring;
+
+import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class DriverClass {
+	public static void main(String[] args) {
+		ConfigurableApplicationContext cApp = new ClassPathXmlApplicationContext("config.xml");
+		Student student = (Student) cApp.getBean("student");
+		student.play();
+		
+		Person person = (Person) cApp.getBean("myPerson");
+		person.Dance();
+		
+		RCB rcb = (RCB) cApp.getBean("RCB");
+		rcb.bold();
+	}
+
+}

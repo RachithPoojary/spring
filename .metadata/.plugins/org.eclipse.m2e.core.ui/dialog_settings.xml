@@ -2,6 +2,14 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Injecting-List-Of_String-Using_Constructor-Injection"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Injecting-Map-Using-Construcor-Injection"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Properties-File-Read-And-Inject\src\main\java\com\spring\DBTest.java"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Injecting-List-Of-String_Using_Setter-Injection"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Constuctor-Injection\src\main\java\com\spring\DriverClass.java"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Injecting-Map-Using-Setter-Injection\src\main\java\com\spring\DriverClass.java"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Injecting-Map-Using-Setter-Injection\src\main\java\com\spring\Shop.java"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Injecting-List-Of-String_Using_Setter-Injection\src\main\java\com\spring\DriverClass.java"/>
 			<item value="C:\Users\rachi\eclipse-workspace\spring\MultipleConfigurationFileIn1Project\src\main\java\com\spring\DriverClass.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -44,18 +52,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="spring.xml.annotation"/>
 			<item value="com.spring"/>
-			<item value="com.ty.spring"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="Injecting-List-Of-String_Using_Setter-Injection"/>
-			<item value="Injecting-An-Object_Using-Setter-Injection"/>
-			<item value="Setter-Injection"/>
-			<item value="MultipleConfigurationFileIn1Project"/>
-			<item value="MultipleBean"/>
-			<item value="FirstSpringProject"/>
+			<item value="Xmal-And-Annotation-Based-Configuration"/>
+			<item value="Post-Construct-Pre_Destroy"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
