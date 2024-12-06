@@ -2,6 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Dependency-Injection-Using-Autowired-Annotation"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Dependency-Injection-In-No-Xml-Based-Configuration"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Injecting-Data-Using-Autowired-Annotation"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Injecting-List-Of-Objects_using-Setter-Injection"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\FirstSpringProject"/>
+			<item value="C:\Users\rachi\eclipse-workspace\spring\Xml-And-Annotation-Based-Configuration\src\main\java\com\spring\DriverClass.java"/>
 			<item value="C:\Users\rachi\eclipse-workspace\spring\Injecting-List-Of_String-Using_Constructor-Injection"/>
 			<item value="C:\Users\rachi\eclipse-workspace\spring\Injecting-Map-Using-Construcor-Injection"/>
 			<item value="C:\Users\rachi\eclipse-workspace\spring\Properties-File-Read-And-Inject\src\main\java\com\spring\DBTest.java"/>
@@ -52,12 +58,19 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="spring.xml.annotation"/>
 			<item value="com.spring"/>
+			<item value="spring.xml.annotation"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Ways-To-Avoid-NoUniqueBeanDefinitionException"/>
+			<item value="Using-Primary"/>
+			<item value="Autowired-Annotation-With-Interface"/>
+			<item value="Dependency-Injection-Using-Autowired-Annotation"/>
+			<item value="Injecting-Data-Using-Autowired-Annotation"/>
+			<item value="Dependency-Injection-In-No-Xml-Based-Configuration"/>
+			<item value="Injecting-Value-Using-Value-Annotation"/>
 			<item value="Xmal-And-Annotation-Based-Configuration"/>
 			<item value="Post-Construct-Pre_Destroy"/>
 		</list>
